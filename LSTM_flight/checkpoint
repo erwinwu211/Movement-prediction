@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/erwinwu/Jupyter/LSTM_flight/my_model.tflearn"
+all_model_checkpoint_paths: "/home/erwinwu/Jupyter/LSTM_flight/my_model.tflearn"
